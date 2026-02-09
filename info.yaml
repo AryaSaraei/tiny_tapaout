@@ -1,10 +1,10 @@
 
 # Tiny Tapeout project information
 project:
-  title:        ""      # vga_rowByrow
-  author:       ""      # Arya Saraei
+  title:        "vga_rowByrow"      # vga_rowByrow
+  author:       "Arya Saraei"      # Arya Saraei
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # vga set to appear row by row
+  description:  "vga set to appear row by row"      # vga set to appear row by row
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
